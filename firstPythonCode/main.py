@@ -28,4 +28,18 @@
 # print(age)
 
 # Conversion Exercise
-user = print('What is ur weight in pounds? ')
+# weight = input('What is ur weight in pounds? ')
+# avg = int(weight) * 0.45
+# print(avg)
+
+# course = 'I love python'
+# print(course[0])
+#
+# jen = 'Jeniffer'
+# print(jen[1:-1])
+
+# Formatted Strings
+firstName = 'Alfred'
+lastName = 'Loveday'
+msg = f'{firstName} [{lastName}] is a programmer'
+print(msg)
