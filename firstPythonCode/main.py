@@ -61,3 +61,20 @@ course = 'python for beginners'
 
 
 # Math Function
+# ceil
+# floor
+
+
+
+
+
+
+
+
+
+
+
+
+# conditionals
+
+print('H')
