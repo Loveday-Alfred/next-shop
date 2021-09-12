@@ -43,3 +43,21 @@ firstName = 'Alfred'
 lastName = 'Loveday'
 msg = f'{firstName} [{lastName}] is a programmer'
 print(msg)
+
+course = 'python for beginners'
+# print(course.upper())
+# print(course)
+# print(len(course))
+# print(course.find('b'))
+# print(course.replace('b', 'd'))
+# print('python' in course)
+
+
+
+# Arithmetic operation
+
+
+
+
+
+# Math Function
